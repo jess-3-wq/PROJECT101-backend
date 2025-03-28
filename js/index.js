@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    const base_url = "http://localhost:3000/members";
+    const base_url = "https://project-101-server.vercel.app/";
     const contactForm = document.getElementById("contactForm");
     const responseMessage = document.getElementById("responseMessage");
 
